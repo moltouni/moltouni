@@ -13,13 +13,13 @@
 
 ## Join me in Building Useful and Scalable Open-Source software
 
-- 🏄 [Habitus App](https://habitus.today/) - Open-Source | Journal and Tracker for Emotions and Habits,
+- 🏄 [Habitus App](https://gethabitus.com/) - Open-Source | Journal and Tracker for Emotions and Habits,
 - 🚀 [FireStarter API](https://github.com/AndromedaTechnology/firestarter-api) - Easy to extend, Progressive and Scalable API boilerplate to power your startup,
 - 🔮 Ethereum Observer - [API](https://github.com/AndromedaTechnology/ethereum-observer-api) & [Contract](https://github.com/AndromedaTechnology/ethereum-observer-contract-hardhat) - Simple block and transaction tracker for Ethereum network,
 
 ## Podcasting, Writing, Teaching
 
-- ✍️ Publishing and Editing Essays on the topic of scalable Software Artisanship (i. e. [Self-Aware Software Artisan](http://selfawaresoftwareartisan.com/)),
+- ✍️ Publishing and Editing Essays on the topic of scalable Software Artisanship (i. e. [Self-Aware Software Artisan](https://medium.com/andromeda-technology/self-aware-software-artisan-the-manifesto-e9314290bced)),
 - 📽 Educational videos and podcasts - Software, Sport, Health - Filming, Editing and Publishing - [SoundCloud](https://soundcloud.com/moltouni).
 
 ## About me
